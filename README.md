@@ -173,5 +173,4 @@ The original repository serves as the foundation for this project, while the cur
 
 ### Original Project
 
-**SuryaVeda (Initial Version):**  
-https://github.com/AasthathecoderX/SuryaVeda
+[SuryaVeda (Initial Version)] (https://github.com/AasthathecoderX/SuryaVeda)
